@@ -24,22 +24,22 @@ main:
     parent: 청주충북환경연합
 
   - name: 알림마당
-    url: http://cjcb.ekfem.or.kr/category/%ec%95%8c%eb%a6%bc%eb%a7%88%eb%8b%b9/%ed%99%9c%eb%8f%99%ec%86%8c%ec%8b%9d/
+    url: 
     weight: 2
   - name: 공지사항
-    url: http://cjcb.ekfem.or.kr/category/%ec%95%8c%eb%a6%bc%eb%a7%88%eb%8b%b9/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/
+    url: https://demo-osas-220817.campaignus.me/15?category=l48421Z385
     weight: 1
     parent: 알림마당
   - name: 활동소식
-    url: http://cjcb.ekfem.or.kr/category/%ec%95%8c%eb%a6%bc%eb%a7%88%eb%8b%b9/%ed%99%9c%eb%8f%99%ec%86%8c%ec%8b%9d/
+    url: https://demo-osas-220817.campaignus.me/15?category=61d5T752mK
     weight: 2
     parent: 알림마당
   - name: 초록칼럼
-    url: http://cjcb.ekfem.or.kr/category/%ec%95%8c%eb%a6%bc%eb%a7%88%eb%8b%b9/%ec%b4%88%eb%a1%9d%ec%b9%bc%eb%9f%bc/
+    url: https://demo-osas-220817.campaignus.me/15?category=26m6D24g35
     weight: 3
     parent: 알림마당
   - name: 성명서 보도자료
-    url: http://cjcb.ekfem.or.kr/category/%ec%95%8c%eb%a6%bc%eb%a7%88%eb%8b%b9/%ec%84%b1%eb%aa%85%ec%84%9c-%eb%b3%b4%eb%8f%84%ec%9e%90%eb%a3%8c/
+    url: https://demo-osas-220817.campaignus.me/15?category=uJ838hWW0b
     weight: 4
     parent: 알림마당
   - name: 주요일정
@@ -48,39 +48,39 @@ main:
     parent: 알림마당
 
   - name: 자료실
-    url: http://cjcb.ekfem.or.kr/category/%ec%82%ac%ec%a7%84-%ec%9e%90%eb%a3%8c%ec%8b%a4/
+    url: 
     weight: 3
   - name: 사진자료실
-    url: http://cjcb.ekfem.or.kr/category/%ec%82%ac%ec%a7%84-%ec%9e%90%eb%a3%8c%ec%8b%a4/
+    url: https://demo-osas-220817.campaignus.me/16?category=28373033W1
     weight: 1
     parent: 자료실
   - name: 환경자료실
-    url: http://cjcb.ekfem.or.kr/category/%ed%99%98%ea%b2%bd%ec%9e%90%eb%a3%8c%ec%8b%a4/
+    url: https://demo-osas-220817.campaignus.me/16?category=D1H7422T4b
     weight: 2
     parent: 자료실
   - name: 동영상 자료실
-    url: http://cjcb.ekfem.or.kr/category/%eb%8f%99%ec%98%81%ec%83%81-%ec%9e%90%eb%a3%8c%ec%8b%a4/
+    url: https://demo-osas-220817.campaignus.me/16?category=14u3F63M5Q
     weight: 3
     parent: 자료실
   - name: 회원소식지
-    url: http://cjcb.ekfem.or.kr/category/%ed%9a%8c%ec%9b%90%ec%86%8c%ec%8b%9d%ec%a7%80/
+    url: https://demo-osas-220817.campaignus.me/16?category=66HS62B024
     weight: 4
     parent: 자료실
 
   - name: 회원마당
-    url: http://cjcb.ekfem.or.kr/%ed%9a%8c%ec%9b%90%ec%9d%b4%ec%95%bc%ea%b8%b0/
+    url: 
     weight: 4
   - name: 회원이야기
-    url: http://cjcb.ekfem.or.kr/%ed%9a%8c%ec%9b%90%ec%9d%b4%ec%95%bc%ea%b8%b0/
+    url: https://demo-osas-220817.campaignus.me/17?category=aK0u540481
     weight: 1
     parent: 회원마당
   - name: 소모임방
-    url: http://cjcb.ekfem.or.kr/category/%ea%bf%88%ea%be%b8%eb%8a%94%ec%b1%85%eb%b0%a9%ec%b1%85%ec%9d%bd%eb%8a%94%ec%82%ac%eb%9e%91%eb%b0%a9/
+    url: https://demo-osas-220817.campaignus.me/17?category=O11678G4CP
     weight: 2
     parent: 회원마당
 
   - name: 풀꿈자연학교
-    url: http://cjcb.ekfem.or.kr/category/%ed%92%80%ea%bf%88%ec%9e%90%ec%97%b0%ed%95%99%ea%b5%90/
+    url: https://demo-osas-220817.campaignus.me/19?category=837ww22n33
     weight: 5
 
   - name: 후원하기
